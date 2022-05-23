@@ -20,11 +20,11 @@
   }
   
   a:hover {
-    color: purple;
+    color: rgb(13, 0, 128);
   }
   
   button {
-    background-color: purple;
+    background-color: rgb(13, 0, 128);
     border: 0;
     padding: 1%;
     color: white;
@@ -47,8 +47,8 @@
     text-align: center;
     border: solid 1px;
     border-radius: 5px;
-    background-image: url("./images/background-image.jpg.crdownload");
-    background-color: purple;
+    background-image: url("./images/future-20trend-20blue_shutterstock_7968100-20--20524x291.jpg");
+    background-color: rgb(13, 0, 128);
     padding: 50px;
 
   }
@@ -126,7 +126,7 @@
     padding: 0;
     cursor: pointer;
     text-decoration: none;
-    color: purple;
+    color: rgb(13, 0, 128);
     font-size: 100%;
     font-weight: bold;
     transition: color .1s;
@@ -196,6 +196,6 @@
     justify-content: center;
     padding: 2%;
     font-size: 110%;
-    background-image: url("./images/background-image.jpg.crdownload");
+    background-image: url("./images/future-20trend-20blue_shutterstock_7968100-20--20524x291.jpg");
     color: whitesmoke;
   }
