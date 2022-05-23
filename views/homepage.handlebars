@@ -1,0 +1,16 @@
+{{#if loggedIn}}
+<ol class="post-list">
+  {{#each posts as |post|}}
+  <li>
+   {{> post-info post}}
+  </li>
+  {{/each}}
+</ol>
+{{else}}
+<div class="welcome">
+ Welcome
+</div>
+<p class ="app-info">
+  Login to view your Tech Blog!
+</p>
+{{/if}}
